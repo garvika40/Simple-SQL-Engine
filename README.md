@@ -1,6 +1,11 @@
 # Simplified SQL Query Engine
 An SQL engine which can execute a query written in a simplified form of Structured Query Language (SQL) against a simple database.
 
+## Requirements 
+This repo requires Rust setup and installed, if not installed click on the given link for Rust setup and installation. 
+For macOS, Linux, or another Unix-like OS - https://www.rust-lang.org/tools/install
+For windows - https://forge.rust-lang.org/infra/other-installation-methods.html
+
 ## Simplified SQL
 This SQL query engine handles a simplified version of SQL, supporting the following features:
 
